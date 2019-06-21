@@ -1,3 +1,6 @@
+/* Reset */
+* { box-sizing: border-box; }
+
 /* Fonts */
 .system-font { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Helvetica Neue", Arial, sans-serif; }
 
