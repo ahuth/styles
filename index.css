@@ -4,6 +4,13 @@
 /* Fonts */
 .system-font { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Helvetica Neue", Arial, sans-serif; }
 
+.font-size-1 { font-size: 3rem; }
+.font-size-2 { font-size: 2.25rem; }
+.font-size-3 { font-size: 1.5rem; }
+.font-size-4 { font-size: 1.25rem; }
+.font-size-5 { font-size: 1rem; }
+.font-size-6 { font-size: 0.875rem; }
+
 /* Display */
 .block { display: block; }
 .inline-block { display: inline-block; }
